@@ -1,1 +1,2 @@
 # ConsoleTodoListEF
+Pequeno projeto de console de uma "To do list", onde foi usado o entity framework, para armazenar as tarefas em um banco de dados SQLite, e o spectre console, para melhorar a estetica do app.
